@@ -39,7 +39,7 @@ const app = express();
 
   apolloServer.applyMiddleware({ app, cors: false });
 
-  const PORT = process.env.NODE_ENV || '4000';
+  const PORT = process.env.PORT || '4000';
 
   app.listen(PORT, () => {
     console.log(`Server started on port ${PORT}`);
