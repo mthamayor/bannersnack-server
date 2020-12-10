@@ -18,6 +18,7 @@ git clone https://github.com/mthamayor/bannersnack-server.git
 
 ## Building and running the project
 - Install dependencies with `npm install`
+- create a `.env` file and copy values in the `.env.sample` to it
 - A development version of the project can be run with
 	```
 	npm run start:dev
