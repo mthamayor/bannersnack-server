@@ -29,4 +29,4 @@ git clone https://github.com/mthamayor/bannersnack-server.git
 
 ## Deployment
 
-A live version of the project is deployed on [heroku](https://bannerstack-server.herokuapp.com/graphql)
+A live version of the project is deployed on [heroku](https://bannersnack-server.herokuapp.com)
